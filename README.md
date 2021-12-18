@@ -1,2 +1,3 @@
 # utkarsh-react-chat-server
- Server for Chat application creation using ReactJS and Socket.io
+
+Server for Chat application created using ReactJS and Socket.io
